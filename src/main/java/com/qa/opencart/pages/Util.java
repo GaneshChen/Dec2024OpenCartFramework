@@ -9,4 +9,10 @@ public class Util {
     public void m2_local(){
         System.out.println("This is M2_Local");
     }
+
+    public void m3_Remote(){
+        System.out.println("This is M3_REMOTE");
+    }
+
+    
 }
