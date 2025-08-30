@@ -8,4 +8,7 @@ public class MyUtil {
         System.out.println("Ganesh -- Login");
 
     }
+
+    public void toDo(){
+        System.out.println("TO DO METHOD");
 }
